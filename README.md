@@ -1,2 +1,2 @@
 # CODSOFT
-python codes
+C++ codes
